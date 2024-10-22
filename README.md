@@ -5,6 +5,6 @@ Hello!
 #Nastya's commit.
 I have added the realization of some methods in class book and library
 It was easy
-#hello
-#It was quite easy!
-# Hey
+#he
+#It was quite easy
+# I try to create a conflict
